@@ -27,6 +27,7 @@
  * problem : gem版本過舊
  * solution : 升級ruby
  `rvm install ruby 2.6.3`
+
 *若沒有rvm*
 
 	#安裝RVM(管理ruby/gem)#
