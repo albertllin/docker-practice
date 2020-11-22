@@ -1,4 +1,4 @@
-#Docker practice DAY2
+# Docker practice DAY2
 
  `winpty docker pull centos`
  * winpty : 提供該指令所需的tty，防止亂碼
@@ -19,7 +19,7 @@
  *(/bin/bash ERROR occured --> Solution : bash)*
 
 
-##進入該容器後
+## 進入該容器後
  *表示的樣子 : `root@\<containerID>:/#`*
 
 `gem install json`
